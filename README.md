@@ -18,8 +18,10 @@ Using the root propertie has been saving a lot of time to change values given to
 Root-propertie:
 ![2022-03-04 (69)](https://user-images.githubusercontent.com/97689634/156728804-a3f70059-3d3f-422d-a4d3-38b47aaf0198.png)
 Example how I use the root properties:
+![2022-03-04 (75)](https://user-images.githubusercontent.com/97689634/156734379-97e74a5d-136e-49f0-aa8b-48cf10bf3228.png)
 
 Example how I used a linear formula with roots:
+![2022-03-04 (74)](https://user-images.githubusercontent.com/97689634/156734569-98bcb9a5-66a2-4540-a5f8-57a4bf6ccc0a.png)
 
 New HTML format:
 ![2022-03-04 (18)](https://user-images.githubusercontent.com/97689634/156730323-ddc017fc-dd78-4860-ad36-3359c0cb71ad.png)
