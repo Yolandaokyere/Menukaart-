@@ -12,8 +12,9 @@ The rules are no id or classes. These are only allowed to trigger the target sel
 # 📈Process 1
 
 At first is was a struggle to replace the id & classes.
-Instead of <div> I used <h1,<h2,<h3 ect. to define the different elements of the robot. This method wasn't given the expected results. By replacing the <h>'s elements with section and by using the ::before & ::after elements I got the following results;
-  ![2022-02-17](https://user-images.githubusercontent.com/97689634/156725304-e5fe7a89-a1e6-452e-b217-e3afd88264fd.png)
+Instead of <div> I used <h1,<h2,<h3 ect. to define the different elements of the robot. This method wasn't given the expected results. By replacing the <h's elements with section and by using the before & after elements I got the following results;
+                                    
+![2022-02-17](https://user-images.githubusercontent.com/97689634/156725304-e5fe7a89-a1e6-452e-b217-e3afd88264fd.png)
 
 # 📈Process 2
 During the holiday I have learned a lot about properties, root, values & how to make a linear formula. 
@@ -21,5 +22,5 @@ Using the root propertie has been saving a lot of time to change values given to
   
 
 # 📚Sources
-single div methode;  https://www.educative.io/edpresso/3-secrets-behind-single-div-css-art
-<section>; https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
+single div method;  https://www.educative.io/edpresso/3-secrets-behind-single-div-css-art
+section method; https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
