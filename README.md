@@ -15,8 +15,20 @@ At first is was a struggle to replace the id & classes. I used <h1,<h2,<h3 ect i
 # 📈Process 2
 During the holiday I have learned a lot about properties, root, values & how to make a linear formula. 
 Using the root propertie has been saving a lot of time to change values given to the elements. 
+Root-propertie:
+![2022-03-04 (69)](https://user-images.githubusercontent.com/97689634/156728804-a3f70059-3d3f-422d-a4d3-38b47aaf0198.png)
+Example how I use the root properties:
+
+Example how I used a linear formula with roots:
+
+New HTML format:
+![2022-03-04 (18)](https://user-images.githubusercontent.com/97689634/156730323-ddc017fc-dd78-4860-ad36-3359c0cb71ad.png)
+
+The head of the robot is not responsive. I have struggles fixing this:
+![2022-03-04 (12)](https://user-images.githubusercontent.com/97689634/156730589-83be4650-7361-4093-b6a7-b2ec09ebccf0.png)
+
   
 
 # 📚Sources
-single div method;  https://www.educative.io/edpresso/3-secrets-behind-single-div-css-art
+single div method;  https://www.educative.io/edpresso/3-secrets-behind-single-div-css-art 
 section method; https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
